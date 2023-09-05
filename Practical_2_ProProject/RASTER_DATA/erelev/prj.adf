@@ -1,7 +1,0 @@
-Projection    UTM
-Zone          10
-Datum         NAD27
-Spheroid      CLARKE1866
-Units         METERS
-Zunits        FEET
-Parameters    
